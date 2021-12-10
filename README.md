@@ -7,5 +7,5 @@ Material You (Android 12 accent color):
 </p>
 Android lower than 12:
 <p align="center">
- <img width="300" height="650" src="ktcalculatorAndroid12.gif">
+ <img width="300" height="650" src="ktcalculatorAndroidLower12.gif">
 </p>

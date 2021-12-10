@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="buttonOperator">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@null</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@android:color/system_accent1_700</item>
+        <item name="android:onClick">onOperationClick</item>
+    </style>
+
+    <style name="buttonNumber">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@null</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@android:color/system_accent1_400</item>
+        <item name="android:onClick">onNumberClick</item>
+    </style>
+
+</resources>

@@ -52,6 +52,7 @@ class MainActivity : AppCompatActivity() {
 
     // Remove last character
     fun onBackSpaceClick(view: android.view.View) {
+        canAddOperation = true
         val length = workingTV.length()
         if (length > 0)
             workingTV.text = workingTV.text.subSequence(0, length - 1)

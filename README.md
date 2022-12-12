@@ -1,5 +1,5 @@
 # KTCalculator
-Just a simple calculator app with Mean and Median support (+Android 12 color scheme)
+Simple calculator app made for technical interview with Material You support
 
 Material You (Android 12 accent color):
 <p align="center">
